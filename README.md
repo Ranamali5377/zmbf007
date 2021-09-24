@@ -36,7 +36,7 @@ pip2 install futures
 
 pip2 install bs4
 
-git clone https://github.com/ZKWorld/Zmbf
+git clone https://github.com/ranamali5377/Zmbf
 
 ***** Usage *****
 
